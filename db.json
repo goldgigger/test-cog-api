@@ -1,4 +1,15 @@
 {
+    "id": "1",
+    "firstName": "Michael",
+    "lastName": "Scott",
+    "email": "michael.scott@chubb.com",
+    "addr": {
+        "addr1": "10 Exchange Pl",
+        "addr2": "8th Floor",
+        "city": "Jersey City",
+        "state": "NJ",
+        "postalCode": "07302"
+    },
     "values": [
         {
             "name": "Australia",
